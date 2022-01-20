@@ -10,12 +10,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hi, I’m Rafael Montas
-<a href="https://github.com/rafaelmontas">
+<div align="center" dir="auto">
+  <a href="https://github.com/rafaelmontas">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmontas&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=swift" />
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmontas&layout=compact&langs_count=6&theme=swift" />
+  </a> 
+</div>
+<!-- <a href="https://github.com/rafaelmontas">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmontas&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=swift" />
 </a>
 <a href="https://github.com/rafaelmontas">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmontas&layout=compact&langs_count=6&theme=swift" />
-</a>
+</a> -->
  
  ### Languages and Tools
  
