@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmontas&layout=compact&langs_count=6&theme=swift" />
 </a>
  
-<div style="display: inline_block"><br>
+ ### Languages and Tools
+ 
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
